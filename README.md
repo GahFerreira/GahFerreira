@@ -28,7 +28,7 @@
 </p>
 
 <div align="center">
-	<h2> Github Stats</h2>
+	<h3> Github Stats</h3>
 	<h4> 💻 Profile Stats </h4>
 	<p>
 		<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
