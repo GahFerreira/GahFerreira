@@ -7,24 +7,24 @@
 
 <p><strong>💞️</strong> I really enjoy participating in Competitive Programming contests and developing games.</p>
 
-<h2 align="center"> Languages I enjoy </h2>
+<h3 align="center"> Languages I enjoy </h3>
 
 <p align="center">
-	<a href="https://github.com/search?q=user%3AGahFerreira+is%3Arepo+language%3Ac%2B%2B"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="My C++ Code"></a>
+	<a href="https://github.com/search?q=user%3AGahFerreira+is%3Arepo+language%3Ac%2B%2B"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="My C++ Code" alt="C++ Button" target="_blank"></a>
 	<!--  -->
-	<a href="https://github.com/search?q=user%3AGahFerreira+is%3Arepo+language%3Ac%23"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" title="My C# Code"></a>
+	<a href="https://github.com/search?q=user%3AGahFerreira+is%3Arepo+language%3Ac%23"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" title="My C# Code" alt="C# Button" target="_blank"></a>
 	<!--  -->
-	<a href="https://github.com/search?q=user%3AGahFerreira+is%3Arepo+language%3Aelixir"><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" title="My Elixir Code"></a>
+	<a href="https://github.com/search?q=user%3AGahFerreira+is%3Arepo+language%3Aelixir"><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" title="My Elixir Code" alt="Elixir Button" target="_blank"></a>
 	<!--  -->
-	<a href="https://github.com/search?q=user%3AGahFerreira+is%3Arepo+language%3Apython"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="My Python Code"></a>
+	<a href="https://github.com/search?q=user%3AGahFerreira+is%3Arepo+language%3Apython"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="My Python Code" alt="Python Button" target="_blank"></a>
 	<!--  -->
 	<br>
 	<!--  -->
-	<a href="https://github.com/search?q=html+in%3Areadme+user%3Agahferreira&type=Repositories"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="My HTML Code"></a>
+	<a href="https://github.com/search?q=html+in%3Areadme+user%3Agahferreira&type=Repositories"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="My HTML Code" alt="HTML Button" target="_blank"></a>
 	<!--  -->
-	<a href="https://github.com/search?q=css+in%3Areadme+user%3Agahferreira&type=Repositories"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="My CSS Code"></a>
+	<a href="https://github.com/search?q=css+in%3Areadme+user%3Agahferreira&type=Repositories"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="My CSS Code" alt="CSS Button" target="_blank"></a>
 	<!--  -->
-	<a href="https://github.com/search?q=user%3AGahFerreira+is%3Arepo+language%3Ajavascript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="My JavaScript Code"></a>
+	<a href="https://github.com/search?q=user%3AGahFerreira+is%3Arepo+language%3Ajavascript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="My JavaScript Code" alt="JavaScript Button" target="_blank"></a>
 </p>
 
 <div align="center">
@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-	<h2> Contact Me </h2>
+	<h3> Contact Me </h3>
 	<p>
 		<a href="mailto:gabvinicius7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 		<!--  -->
