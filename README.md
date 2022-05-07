@@ -31,6 +31,18 @@
 </div>
 
 <div align="center">
+	<h2> My GitHub Activity </h2>
+	<p>
+		<a>
+			<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
+			<img alt="GahFerreira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahferreira&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+			<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+	    <img alt="Gah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gahferreira&theme=monokai-metallian&hide_border=true" height="192px"/>
+	  </a>
+	</p>
+</div>
+
+<div align="center">
 	<h2> Contact Me </h2>
 	<p>
 		<a href="mailto:gabvinicius7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -38,12 +50,3 @@
 		<a href="https://www.linkedin.com/in/gabriel-ferreira-0135b8196/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	</p>
 </div>
-
-<p align="center">
-	<a>
-		<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
-		<img alt="GahFerreira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahferreira&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-		<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img alt="Gah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gahferreira&theme=monokai-metallian&hide_border=true" height="192px"/>
-  </a>
-</p>
