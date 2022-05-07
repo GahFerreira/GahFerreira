@@ -37,11 +37,11 @@
 	</p>
 </div>
 
-<div align="center">
+<p align="center">
 	<a>
 		<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
 		<img alt="GahFerreira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahferreira&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/>
 		<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img alt="Gah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gahferreira&theme=monokai-metallian&hide_border=true" height="200px"/>
   </a>
-</div>
+</p>
