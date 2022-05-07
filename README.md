@@ -9,6 +9,7 @@
 	<a href="https://www.linkedin.com/in/gabriel-ferreira-0135b8196/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
+<h2 align="center"> About </h2>
 <p><strong>🎓</strong> I'm currently majoring in Computer Science at Federal Institute of the North of Minas Gerais, in Brazil. </p>
 
 <p><strong>💞️</strong> I really enjoy participating in Competitive Programming contests and developing games.</p>
@@ -42,7 +43,7 @@
 
 <h2 align="center"> Github Stats </h2>
 
-<h6 align="center"> 💻 Profile Stats </h6>
+<h4 align="center"> 💻 Profile Stats </h4>
 <p align="center">
 <!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
 	<a>
@@ -50,7 +51,7 @@
 	</a>
 </p>
 
-<h6 align="center"> 🔥 Streak </h6>
+<h4 align="center"> 🔥 Streak </h4>
 <p align="center">
 	<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <a>
