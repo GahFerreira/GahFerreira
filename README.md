@@ -7,8 +7,9 @@
 
 <p><strong>💞️</strong> I really enjoy participating in Competitive Programming contests and developing games.</p>
 
-<h2 align="center"> Languages I enjoy </h2>
+<p><strong>🔭</strong> I look forward to study and work in projects using AI in the future!</p>
 
+<h2 align="center"> Languages I enjoy </h2>
 <p align="center">
 	<a href="https://github.com/search?q=user%3AGahFerreira+is%3Arepo+language%3Ac%2B%2B"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="My C++ Code" alt="C++ Button" target="_blank"></a>
 	<!--  -->
@@ -28,28 +29,21 @@
 </p>
 
 <div align="center">
-	<h2> Github Stats</h2>
-	<h4> 💻 Profile Stats </h4>
-	<p>
-		<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
-		<a>
-			<img alt="GahFerreira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahferreira&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/>
-		</a>
-	</p>
-	<h4> 🔥 Streak </h4>
-	<p>
-		<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-	  <a>
-	    <img alt="Gah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gahferreira&theme=monokai-metallian&hide_border=true" height="200px"/>
-	  </a>
-	</p>
-</div>
-
-<div align="center">
 	<h2> Contact Me </h2>
 	<p>
 		<a href="mailto:gabvinicius7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 		<!--  -->
 		<a href="https://www.linkedin.com/in/gabriel-ferreira-0135b8196/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	</p>
+</div>
+
+<div align="center">
+	<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
+	<a>
+		<img alt="GahFerreira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahferreira&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/>
+	</a>
+	<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <a>
+    <img alt="Gah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gahferreira&theme=monokai-metallian&hide_border=true" height="200px"/>
+  </a>
 </div>
