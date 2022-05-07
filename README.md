@@ -3,9 +3,9 @@
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
-<p><strong>🎓</strong> I'm currently majoring in Computer Science at Federal Institute of the North of Minas Gerais, in Brazil. </p>
+<p><strong>🎓</strong> I'm currently majoring in Computer Science at Federal Institute of the North of Minas Gerais, in Brazil </p>
 
-<p><strong>💞️</strong> I really enjoy participating in Competitive Programming contests and developing games.</p>
+<p><strong>💞️</strong> I really enjoy participating in Competitive Programming contests and developing games</p>
 
 <p><strong>🔭</strong> I look forward to study and work in projects using AI in the future!</p>
 
@@ -38,12 +38,10 @@
 </div>
 
 <div align="center">
-	<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
 	<a>
+		<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
 		<img alt="GahFerreira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahferreira&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/>
-	</a>
-	<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <a>
+		<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img alt="Gah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gahferreira&theme=monokai-metallian&hide_border=true" height="200px"/>
   </a>
 </div>
