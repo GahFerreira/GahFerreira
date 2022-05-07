@@ -7,7 +7,7 @@
 
 <p><strong>💞️</strong> I really enjoy participating in Competitive Programming contests and developing games.</p>
 
-<h3 align="center"> Languages I enjoy </h3>
+<h2 align="center"> Languages I enjoy </h2>
 
 <p align="center">
 	<a href="https://github.com/search?q=user%3AGahFerreira+is%3Arepo+language%3Ac%2B%2B"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="My C++ Code" alt="C++ Button" target="_blank"></a>
@@ -28,7 +28,7 @@
 </p>
 
 <div align="center">
-	<h3> Github Stats</h3>
+	<h2> Github Stats</h2>
 	<h4> 💻 Profile Stats </h4>
 	<p>
 		<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-	<h3> Contact Me </h3>
+	<h2> Contact Me </h2>
 	<p>
 		<a href="mailto:gabvinicius7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 		<!--  -->
