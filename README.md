@@ -3,13 +3,6 @@
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
-<p align="center">
-	<a href="mailto:gabvinicius7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	<!--  -->
-	<a href="https://www.linkedin.com/in/gabriel-ferreira-0135b8196/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
-
-<h2 align="center"> About </h2>
 <p><strong>🎓</strong> I'm currently majoring in Computer Science at Federal Institute of the North of Minas Gerais, in Brazil. </p>
 
 <p><strong>💞️</strong> I really enjoy participating in Competitive Programming contests and developing games.</p>
@@ -34,27 +27,29 @@
 	<a href="https://github.com/search?q=user%3AGahFerreira+is%3Arepo+language%3Ajavascript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="My JavaScript Code"></a>
 </p>
 
-<h2 align="center"> Contact Me </h2>
-<p align="center">
-	<a href="mailto:gabvinicius7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	<!--  -->
-	<a href="https://www.linkedin.com/in/gabriel-ferreira-0135b8196/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
+<div align="center">
+	<h2> Github Stats</h2>
+	<h4> 💻 Profile Stats </h4>
+	<p>
+		<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
+		<a>
+			<img alt="GahFerreira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahferreira&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/>
+		</a>
+	</p>
+	<h4> 🔥 Streak </h4>
+	<p>
+		<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+	  <a>
+	    <img alt="Gah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gahferreira&theme=monokai-metallian&hide_border=true" height="200px"/>
+	  </a>
+	</p>
+</div>
 
-<h2 align="center"> Github Stats </h2>
-
-<h4 align="center"> 💻 Profile Stats </h4>
-<p align="center">
-<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
-	<a>
-		<img alt="GahFerreira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahferreira&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/>
-	</a>
-</p>
-
-<h4 align="center"> 🔥 Streak </h4>
-<p align="center">
-	<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <a>
-    <img alt="Gah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gahferreira&theme=monokai-metallian&hide_border=true" height="200px"/>
-  </a>
-</p>
+<div align="center">
+	<h2> Contact Me </h2>
+	<p>
+		<a href="mailto:gabvinicius7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+		<!--  -->
+		<a href="https://www.linkedin.com/in/gabriel-ferreira-0135b8196/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	</p>
+</div>
